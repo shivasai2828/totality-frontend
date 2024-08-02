@@ -1,0 +1,20 @@
+.notfound-bg {
+  width: 90%;
+  max-width: 1150px;
+  min-height: 80vh;
+  margin: 0px auto;
+  background-image: url("https://img.freepik.com/free-vector/error-404-concept-landing-page_52683-11372.jpg?t=st=1722583725~exp=1722584325~hmac=70800d7e30b18f69ffaa392bd04b2abc0591fe6039f5927de702e4392864d767");
+  background-size: cover;
+}
+.notfound-bg div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 90vh;
+}
+h1 {
+  color: black;
+  letter-spacing: 3px;
+  font-size: 50px;
+  font-weight: 600;
+}
